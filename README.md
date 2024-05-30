@@ -2,6 +2,7 @@ Services Recipe
 ======================
 
 This recipe adds a content type and some views to managing and displaying 'services offered' by a digital agency or other organization.
+This recipe was created as part of the Zeever theme project: https://github.com/stpaultim/zeever/wiki
 
 This recipe creates
 
