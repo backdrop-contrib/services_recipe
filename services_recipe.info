@@ -1,0 +1,8 @@
+type = module
+name = Services Recipe
+description = A recipe to build a content type and views to organize the services your organization offers.
+package = Recipes
+backdrop = 1.x
+
+dependencies[] = system (>=1.20.0)
+	
