@@ -27,8 +27,6 @@
       $fids[] = $file->fid;
     }
 
-    dpm($fids);
-
     // Make a service node.
     $service = new Node(
       array(
