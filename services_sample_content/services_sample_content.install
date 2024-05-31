@@ -111,6 +111,7 @@
     );
     $service->save();
 
+    $layout = layout_load('home');
     $layout->addBlock('views', 'services-block_1', 'content');
     $layout->save();
 
