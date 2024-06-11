@@ -1,7 +1,7 @@
 type = module
 name = Services Sample Content
 description = Sample content for your services content type.
-package = Recipes
+package = Recipes Content
 backdrop = 1.x
 
 ; dependencies[] = services_recipe
