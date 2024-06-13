@@ -4,4 +4,4 @@ description = Sample content for your services content type.
 package = Recipes Content
 backdrop = 1.x
 
-; dependencies[] = services_recipe
+dependencies[] = services_recipe
