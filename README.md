@@ -1,4 +1,4 @@
-Services Recipe
+Our Services Recipe
 ======================
 
 This recipe adds a content type and some views to managing and displaying 'services offered' by a digital agency or other organization.
